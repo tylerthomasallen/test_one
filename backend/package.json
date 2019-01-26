@@ -1,0 +1,13 @@
+
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "notes": "Package.json is a used to organize scripts and dependencies and give helpful metadata about your app. It also gives the entry point."
+}
